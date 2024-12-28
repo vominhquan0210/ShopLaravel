@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "react-redux": "^9.1.2",
+    "react-star-ratings": "^2.3.0",
+    "redux": "^5.0.1"
+  }
+}
